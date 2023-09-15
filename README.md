@@ -26,6 +26,9 @@ via lazy.nvim
 ### Delete File
 
 
+![Demo](screenshots/delete_file.gif)
+
+
 ```lua
 local extra_actions = require "telescope-extra-actions"
 
